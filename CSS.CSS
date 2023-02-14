@@ -1,0 +1,44 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px;
+    flex-wrap: wrap;
+    gap: 8em;
+}
+
+
+#LOGO {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    
+    padding-left: 20px;
+}
+
+#pages{
+    text-transform: uppercase;
+    border: solid 1px;
+    flex-direction: row;
+}
+
+button{
+    border-radius: 10px;
+    width: 100px;
+    margin-right: 20px;
+    height: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: blue;
+    color: white;
+    align-items: flex-end;
+
+}
+
+
+
+
+
+
+
+
+
+
